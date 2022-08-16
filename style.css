@@ -130,7 +130,7 @@ body {
   align-items: center;
   width: 240px;
   height: 58px;
-  background-color: #99e7da;
+  background-color: #a0d29e;
   border-radius: 50px;
 }
 
@@ -140,14 +140,14 @@ body {
   align-items: center;
   width: 555px;
   height: 58px;
-  background-color: #99e7da;
+  background-color: #a0d29e;
   border-radius: 50px;
 }
 
 .textfield {
   width: 555px;
   height: 200px;
-  background-color: #99e7da;
+  background-color: #a0d29e;
   border-radius: 50px;
   margin-top: 2rem;
 }
@@ -158,7 +158,7 @@ body {
   align-items: center;
   width: 160px;
   height: 50px;
-  background-color: #99e7da;
+  background-color: #a0d29e;
   border-radius: 50px;
   margin-top: 2rem;
   text-align: center;
